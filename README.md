@@ -8,15 +8,15 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 - 🎓 **M.S. in Financial Engineering** from WorldQuant University.
 - 📊 Passionate about combining **finance** and **technology** to build smarter solutions.
 - 💻 Exploring **machine learning**, **data analysis**, and **AI-based projects**.
-- 📈 Love working on **trading strategies** and **predictive models**.
+- 📈 Enthusiastic about big data processing, natural language processing (NLP), and automation with AI.
 
 ---
 
 ### 🔧 Technologies & Tools
-- **Languages**: Python, SQL, HTML, CSS
-- **Libraries & Frameworks**: NumPy, Pandas, Scikit-learn, TensorFlow
-- **Tools**: Jupyter Notebook, Git, Excel, Power BI
-- **Specialized Skills**: Feature Engineering, Machine Learning Models, Data Visualization
+- **Languages**: Python, SQL
+- **Libraries & Frameworks**: NumPy, Pandas, Scikit-learn, Scipy, 
+- **Tools**: Jupyter Notebook, Git, Excel, PowerBI, Tableau
+
 
 ---
 
