@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 ---
 
 ### 💡 About Me
-- 🎓 **B.C.A. Graduate** from **Guru Gobind Singh Indraprastha University**.
+- 🎓 **M.S. in Financial Engineering** from WorldQuant University.
 - 📊 Passionate about combining **finance** and **technology** to build smarter solutions.
 - 💻 Exploring **machine learning**, **data analysis**, and **AI-based projects**.
 - 📈 Love working on **trading strategies** and **predictive models**.
