@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 ---
 
 ### 💡 About Me
-- 🎓 **B.C.A. Data Science** from Guru Gobind Singh Indraprastha University .
+- 🎓 Pursued **B.C.A. Data Science** from Guru Gobind Singh Indraprastha University.
 - 📊 Passionate about combining **finance** and **technology** to build smarter solutions.
 - 💻 Exploring **machine learning**, **data analysis**, and **AI-based projects**.
 - 📈 Enthusiastic about big data processing, natural language processing (NLP), and automation with AI.
