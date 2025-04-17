@@ -13,9 +13,8 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 ---
 
 ### 🔧 Technologies & Tools
-- **Languages**: Python, SQL
-- **Libraries & Frameworks**: NumPy, Pandas, Scikit-learn, Scipy, 
-- **Tools**: Jupyter Notebook, Git, Excel, PowerBI, Tableau
+- **Programming & Tools**: Python (NumPy, Pandas, scikit-learn, SciPy), SQL
+- **Data & Analytics:**: Machine Learning, Statistical Analysis, Tableau, MS Excel
 
 
 ---
