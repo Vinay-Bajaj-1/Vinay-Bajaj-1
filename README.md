@@ -9,12 +9,12 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 - 🎓 Pursued **B.C.A. Data Science** from Guru Gobind Singh Indraprastha University.
 - 📊 Passionate about combining **finance** and **technology** to build smarter solutions.
 - 💻 Exploring **machine learning**, **data analysis**, and **AI-based projects**.
-- 📈 Enthusiastic about big data processing, natural language processing (NLP), and automation with AI.
+- 3 Years of experience in trading Indian and US Equities (Buy and Hold, intraday)
 
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming & Tools**: Python (NumPy, Pandas, scikit-learn, SciPy), SQL, ClickhouseDB
+- **Programming & Tools**: Python (NumPy, Pandas, Polars, scikit-learn, SciPy), SQL, ClickhouseDB, Flask, GCP
 - **Data & Analytics:**: Machine Learning, Statistical Analysis, Tableau, MS Excel
 
 
