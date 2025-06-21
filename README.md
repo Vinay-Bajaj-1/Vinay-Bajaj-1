@@ -5,6 +5,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 ---
 
 ### 💡 About Me
+- 🏢 Working as a python developer, building tools to help trading team.
 - 🎓 Pursued **B.C.A. Data Science** from Guru Gobind Singh Indraprastha University.
 - 📊 Passionate about combining **finance** and **technology** to build smarter solutions.
 - 💻 Exploring **machine learning**, **data analysis**, and **AI-based projects**.
@@ -13,7 +14,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming & Tools**: Python (NumPy, Pandas, scikit-learn, SciPy), SQL
+- **Programming & Tools**: Python (NumPy, Pandas, scikit-learn, SciPy), SQL, ClickhouseDB
 - **Data & Analytics:**: Machine Learning, Statistical Analysis, Tableau, MS Excel
 
 
@@ -30,7 +31,7 @@ Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine 
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinay-bajaj-aa5868229/)  
-- 🌐 [Portfolio Website](#) *(Coming Soon!)*
+- 🌐 [Portfolio Website](https://www.datascienceportfol.io/workvinaybajaj) 
 
 ---
 
