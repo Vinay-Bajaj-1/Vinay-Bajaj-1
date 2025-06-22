@@ -1,38 +1,38 @@
-# 👋 Hi, I'm Vinay Bajaj  
+# 👋 Hey there, I'm Vinay Bajaj, a Python Developer focused on trading tech & automation
 
-Welcome to my GitHub profile! 🚀 I’m passionate about **coding**, **machine learning**, and **finance**. I enjoy solving real-world problems through innovative solutions and turning ideas into actionable projects.
+Welcome to my GitHub profile! 🚀 I build high-performance systems for trading and analytics by combining my interests in **coding**, **finance**, and real world problem solving through automation and data driven tools.
 
 ---
 
 ### 💡 About Me
-- 🏢 Working as a python developer, building tools to help trading team.
-- 🎓 Pursued **B.C.A. Data Science** from Guru Gobind Singh Indraprastha University.
-- 📊 Passionate about combining **finance** and **technology** to build smarter solutions.
-- 💻 Exploring **machine learning**, **data analysis**, and **AI-based projects**.
-- 3 Years of experience in trading Indian and US Equities (Buy and Hold, intraday)
+- 🏢 Python Developer at a broking firm  
+- 🛠️ Building tools to support trading teams and optimizing a modular backtesting engine  
+- 📈 3 years of experience trading Indian and US equities (Intraday, Swing, Buy & Hold)  
+- 🎓 Graduated in 2024 with a degree in Computer Applications (Data Science)  
 
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming & Tools**: Python (NumPy, Pandas, Polars, scikit-learn, SciPy), SQL, ClickhouseDB, Flask, GCP
-- **Data & Analytics:**: Machine Learning, Statistical Analysis, Tableau, MS Excel
-
+- **Languages & Libraries**: Python (NumPy, Pandas, Polars, scikit-learn, SciPy), SQL, ClickHouse, Flask  
+- **Infra & DevOps**: GCP, Git, Docker (basic), Linux (CLI usage)  
+- **Analytics & Visualization**: Machine Learning, Statistical Analysis, Tableau, MS Excel  
 
 ---
 
 ### 📈 Stats
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Vinay-Bajaj-1&label=Profile%20views&color=0e75b6&style=flat" alt="Vinay-Bajaj-1" /> 
-</p>
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinay-Bajaj-1&show_icons=true&theme=radical)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinay-Bajaj-1&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vinay-Bajaj-1&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Bajaj-1&layout=compact&theme=radical)
+
 
 ---
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinay-bajaj-aa5868229/)  
-- 🌐 [Portfolio Website](https://www.datascienceportfol.io/workvinaybajaj) 
+- 🌐 [Portfolio Website](https://www.datascienceportfol.io/workvinaybajaj)  
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Together, let’s innovate and create! 💻✨
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let’s innovate and create something great together. 💻✨
